@@ -1,0 +1,47 @@
+_repo: Oskuld-och-arsenik-Analyser_69822
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engström, Albert
+    alias: Engstrom, Albert
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '45725'
+    url: http://www.gutenberg.org/2009/agents/45725
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Albert_Engström
+    - https://en.wikipedia.org/wiki/Albert_Engstr%C3%B6m
+creator:
+  author:
+    agent_name: Johanson, Klara
+    aliases:
+    - Johanson, Klara Elisabeth
+    - Leber, Huck
+    birthdate: 1875
+    deathdate: 1948
+    gutenberg_agent_id: '55437'
+    url: http://www.gutenberg.org/2009/agents/55437
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Klara_Johanson
+    - https://sv.wikipedia.org/wiki/Klara_Johanson
+description: ''
+gutenberg_issued: '2023-01-17'
+identifiers:
+  gutenberg: '69822'
+language: sv
+pgterms:marc904: https://gupea.ub.gu.se/handle/2077/59145
+pgterms:marc905: 20210716034316johanson
+pgterms:marc906: '1901'
+pgterms:marc907: se
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the Gothenburg University Library.
+publication_note: 'Sweden: Wahlström & Widstrand,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish essays'
+- !lcc 'PT'
+- GITenberg
+title: 'Oskuld och arsenik: Analyser'
+url: http://www.gutenberg.org/ebooks/69822
