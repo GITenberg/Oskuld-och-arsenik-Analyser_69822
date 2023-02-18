@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://sv.wikipedia.org/wiki/Albert_Engström
     - https://en.wikipedia.org/wiki/Albert_Engstr%C3%B6m
+covers:
+- cover_type: archival
+  image_path: 69822-h/images/cover.jpg
 creator:
   author:
     agent_name: Johanson, Klara
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Klara_Johanson
     - https://sv.wikipedia.org/wiki/Klara_Johanson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69822#Oskuld-och-arsenik-Analyser
 gutenberg_issued: '2023-01-17'
 identifiers:
   gutenberg: '69822'
